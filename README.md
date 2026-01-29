@@ -17,6 +17,9 @@ A modular LLM-powered game agent that observes a world state, reasons using an L
 
 ## How to Run 
 bash:
+
 pip install groq
+
 export GROQ_API_KEY=your_key_here
+
 python main.py
